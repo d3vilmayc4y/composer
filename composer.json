@@ -1,8 +1,5 @@
 {
-    "name": "uma/sampleapp",
-    "description": "Sample app",
     "require": {
-        "php": ">=5.5.14",
-        "aws/aws-sdk-php" :  "dev-master"
+        "aws/aws-sdk-php": "2.*"
     }
 }
